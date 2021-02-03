@@ -1,0 +1,33 @@
+body{
+    /* background-color: #858A84; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/back2.jpg);
+}
+
+.btnConnexion{
+    background-color:#2E3440;
+    border-color: #2E3440;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+.btnConnexion:hover{
+    background-color: #80838C;
+    border-color: #80838C;
+}
+
+.textError{
+    color:whitesmoke;
+}
+
+.titleForm{
+    color: #9F9F9F;
+    font-size: x-large;
+    letter-spacing: 3px;
+}
+
+.textColor{
+    color: whitesmoke;
+}
